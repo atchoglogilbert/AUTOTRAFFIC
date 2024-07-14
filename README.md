@@ -4,3 +4,5 @@ Developing a Simulink application that simulates autonomous vehicles navigating 
 ** Drag dynamics, why sine wave, cruise control and modelling, signals & systems inc. moving average filter, why 1rad/sec, shortcuts and accessibility, relation replication of logical
 
 For example, how would you output any negative values of the sine wave as zero (a half-wave rectifier)? What about outputting any negative values as positive (a full-wave rectifier)?
+
+states in dymisci systems
