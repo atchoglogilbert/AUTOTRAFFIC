@@ -5,4 +5,8 @@ Developing a Simulink application that simulates autonomous vehicles navigating 
 
 For example, how would you output any negative values of the sine wave as zero (a half-wave rectifier)? What about outputting any negative values as positive (a full-wave rectifier)?
 
-states in dymisci systems
+states in dymisci systems, sample time delay unit
+
+laplace
+
+why always set intial condition in integrator
